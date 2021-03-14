@@ -1,5 +1,6 @@
 ## LearnOpenCV
 This respository is about introducing OpenCV to the beginners.
+
 Description is in Chinese.
 
 ## OpenCV 學習要點
