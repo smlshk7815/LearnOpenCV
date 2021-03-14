@@ -2,6 +2,8 @@
 介紹如何學習OpenCV。
 
 ## OpenCV 學習要點
-1. Mat
-2. Image read/write/show
-3. Pointer & "at" function
+1. 影像操作的基本變數：Mat
+3. 影像儲存類型
+4. 基本變數類型：Scalar, Vec
+5. 影像讀取、輸出、顯示
+6. 基礎影像像素數值操作
